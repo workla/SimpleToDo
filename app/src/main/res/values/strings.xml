@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleToDo</string>
+    <string name="update_the_item">Update the Item</string>
+</resources>
