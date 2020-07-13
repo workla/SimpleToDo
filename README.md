@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The largest challenge I had while creating this app was learning java simultaneously.  This was also my first time using Android Studio, so I spent some extra time familiarizing myself with how Android Studio works.
 
 ## License
 
